@@ -6,6 +6,10 @@
 
 - [Override Apple Git with Brew Git](http://apple.stackexchange.com/a/93179)
 
+## GitHub
+
+- [Force rebuild GitHub Pages](http://stackoverflow.com/a/24099328)
+
 ## Git
 
 - [Fix CRLF/LF endings with Windows](https://help.github.com/articles/dealing-with-line-endings/)
