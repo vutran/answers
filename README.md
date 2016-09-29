@@ -6,6 +6,10 @@
 
 - [Override Apple Git with Brew Git](http://apple.stackexchange.com/a/93179)
 
+## Windows
+
+- [Rundll32 commands for Windows](http://www.thewindowsclub.com/rundll32-shortcut-commands-windows)
+
 ## Docker
 
 - [oci runtime error - permission denied](https://github.com/docker-library/elasticsearch/issues/73#issuecomment-162009840)
