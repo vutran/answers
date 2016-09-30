@@ -30,6 +30,10 @@
 
 - [Set Children PropType](https://github.com/yannickcr/eslint-plugin-react/issues/7#issuecomment-90294004)
 
+## Jest
+
+- [Manual Mocks](https://github.com/facebook/jest/blob/master/docs/ManualMocks.md)
+
 ## CI/CD
 
 - [Coveralls Travis Integration](https://coveralls.zendesk.com/hc/en-us/articles/201347419-Coveralls-currently-supports)
