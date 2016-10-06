@@ -38,3 +38,7 @@
 ## CI/CD
 
 - [Coveralls Travis Integration](https://coveralls.zendesk.com/hc/en-us/articles/201347419-Coveralls-currently-supports)
+
+## AWS
+
+- [EC2 - Permission denied (public key)](http://stackoverflow.com/a/18552866/2593947)
