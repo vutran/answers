@@ -42,3 +42,7 @@
 ## AWS
 
 - [EC2 - Permission denied (public key)](http://stackoverflow.com/a/18552866/2593947)
+
+## Internet Explorer
+
+- [checkbox onchange](http://stackoverflow.com/a/1594733/2593947)
