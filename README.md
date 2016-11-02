@@ -46,3 +46,7 @@
 ## Internet Explorer
 
 - [checkbox onchange](http://stackoverflow.com/a/1594733/2593947)
+
+## VIM
+
+- [Show/hide line numbers](http://www.cyberciti.biz/faq/vi-show-line-numbers/)
