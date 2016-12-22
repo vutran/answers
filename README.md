@@ -11,6 +11,10 @@
 - [Rundll32 commands for Windows](http://www.thewindowsclub.com/rundll32-shortcut-commands-windows)
 - [Activate Windows Screensaver](http://www.howtogeek.com/howto/windows-vista/create-icons-to-start-the-screensaver-on-windows-vista/)
 
+## Linux
+
+- [permission issue with /var/lib/dpkg/lock](http://askubuntu.com/a/102084)
+
 ## Docker
 
 - [oci runtime error - permission denied](https://github.com/docker-library/elasticsearch/issues/73#issuecomment-162009840)
