@@ -54,6 +54,7 @@
 ## VIM
 
 - [Show/hide line numbers](http://www.cyberciti.biz/faq/vi-show-line-numbers/)
+- [Cycle through opened files](http://stackoverflow.com/a/19971092)
 
 ## TypeScript
 
