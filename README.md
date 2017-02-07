@@ -15,6 +15,7 @@
 ## Linux
 
 - [permission issue with /var/lib/dpkg/lock](http://askubuntu.com/a/102084)
+- [List all available man pages](http://superuser.com/questions/207450/list-of-all-available-man-pages)
 
 ## Docker
 
