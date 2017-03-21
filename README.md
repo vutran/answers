@@ -33,6 +33,7 @@
 - [Setup gpg path for GnuPG 2](http://stackoverflow.com/a/34767663)
 - [Set branch upstream](http://stackoverflow.com/a/6089415/2593947)
 - [ZSH Git Alias](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet#git)
+- [Checkout file from remote repo](http://stackoverflow.com/a/4427783)
 
 ## React
 
