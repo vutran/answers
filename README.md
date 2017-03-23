@@ -16,6 +16,7 @@
 
 - [permission issue with /var/lib/dpkg/lock](http://askubuntu.com/a/102084)
 - [List all available man pages](http://superuser.com/questions/207450/list-of-all-available-man-pages)
+- [Get date since Epoch from CLI](http://stackoverflow.com/a/1092643)
 
 ## Docker
 
