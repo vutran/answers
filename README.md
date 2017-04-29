@@ -17,6 +17,7 @@
 - [permission issue with /var/lib/dpkg/lock](http://askubuntu.com/a/102084)
 - [List all available man pages](http://superuser.com/questions/207450/list-of-all-available-man-pages)
 - [Get date since Epoch from CLI](http://stackoverflow.com/a/1092643)
+- [Print the line from a given file](https://unix.stackexchange.com/questions/288521/with-the-linux-cat-command-how-do-i-show-only-certain-lines-by-number)
 
 ## Docker
 
@@ -74,6 +75,7 @@
 ## GO Lang
 
 - [Short variable declaration](https://golang.org/ref/spec#Short_variable_declarations)
+
 ## iTerm
 
 - [Map keys for cursor movement](http://apple.stackexchange.com/a/204802)
