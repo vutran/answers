@@ -66,6 +66,7 @@
 - [Indent lines](http://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi)
 - [Move page to current line](http://stackoverflow.com/a/3458821)
 - [map, remap, noremap](http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping)
+- [Vundle local plugin path](https://github.com/VundleVim/Vundle.vim/blob/v0.10.2/doc/vundle.txt#L226)
 
 ## TypeScript
 
