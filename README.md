@@ -78,6 +78,10 @@
 
 - [Short variable declaration](https://golang.org/ref/spec#Short_variable_declarations)
 
+## ZSH
+
+- [Disable Git branch status](https://stackoverflow.com/a/25864063)
+
 ## iTerm
 
 - [Map keys for cursor movement](http://apple.stackexchange.com/a/204802)
