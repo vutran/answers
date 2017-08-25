@@ -18,6 +18,8 @@
 - [List all available man pages](http://superuser.com/questions/207450/list-of-all-available-man-pages)
 - [Get date since Epoch from CLI](http://stackoverflow.com/a/1092643)
 - [Print the line from a given file](https://unix.stackexchange.com/questions/288521/with-the-linux-cat-command-how-do-i-show-only-certain-lines-by-number)
+- [Most used commands](https://superuser.com/a/250230)
+
 
 ## Docker
 
