@@ -13,13 +13,14 @@
 - [Rundll32 commands for Windows](http://www.thewindowsclub.com/rundll32-shortcut-commands-windows)
 - [Activate Windows Screensaver](http://www.howtogeek.com/howto/windows-vista/create-icons-to-start-the-screensaver-on-windows-vista/)
 
-## Linux
+## Bash
 
 - [permission issue with /var/lib/dpkg/lock](http://askubuntu.com/a/102084)
 - [List all available man pages](http://superuser.com/questions/207450/list-of-all-available-man-pages)
 - [Get date since Epoch from CLI](http://stackoverflow.com/a/1092643)
 - [Print the line from a given file](https://unix.stackexchange.com/questions/288521/with-the-linux-cat-command-how-do-i-show-only-certain-lines-by-number)
 - [Most used commands](https://superuser.com/a/250230)
+- [Write custom bash completion commands](http://fahdshariff.blogspot.com/2011/04/writing-your-own-bash-completion.html)
 
 
 ## Docker
