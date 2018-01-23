@@ -72,6 +72,7 @@
 - [map, remap, noremap](http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping)
 - [Vundle local plugin path](https://github.com/VundleVim/Vundle.vim/blob/v0.10.2/doc/vundle.txt#L226)
 - [Join current and next line](https://stackoverflow.com/a/3983437/2593947)
+- [Toggle casing](http://vim.wikia.com/wiki/Switching_case_of_characters)
 
 ## JavaScript
 
