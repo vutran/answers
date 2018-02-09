@@ -73,6 +73,7 @@
 - [Vundle local plugin path](https://github.com/VundleVim/Vundle.vim/blob/v0.10.2/doc/vundle.txt#L226)
 - [Join current and next line](https://stackoverflow.com/a/3983437/2593947)
 - [Toggle casing](http://vim.wikia.com/wiki/Switching_case_of_characters)
+- [Split windows/tabs](https://superuser.com/a/486535)
 
 ## JavaScript
 
