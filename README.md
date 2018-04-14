@@ -21,7 +21,7 @@
 - [Print the line from a given file](https://unix.stackexchange.com/questions/288521/with-the-linux-cat-command-how-do-i-show-only-certain-lines-by-number)
 - [Most used commands](https://superuser.com/a/250230)
 - [Write custom bash completion commands](http://fahdshariff.blogspot.com/2011/04/writing-your-own-bash-completion.html)
-
+- [gpg failed to sign data](https://github.com/pstadler/keybase-gpg-github#optional-setting-up-tty)
 
 ## Docker
 
