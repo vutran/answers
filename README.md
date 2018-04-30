@@ -101,4 +101,4 @@
 
 ## Sketch
 
-- [Collapse all groups shortcut] - Custom keyboard shortcut in System Prefs > Keyboard > Shortcuts > "Collapse all Groups" for Sketch app
+- Collapse all groups shortcut - Custom keyboard shortcut in System Prefs > Keyboard > Shortcuts > "Collapse all Groups" for Sketch app
