@@ -98,3 +98,7 @@
 ## iTerm
 
 - [Map keys for cursor movement](http://apple.stackexchange.com/a/204802)
+
+## Sketch
+
+- [Collapse all groups shortcut] - Custom keyboard shortcut in System Prefs > Keyboard > Shortcuts > "Collapse all Groups" for Sketch app
