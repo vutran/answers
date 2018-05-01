@@ -40,6 +40,7 @@
 - [Set branch upstream](http://stackoverflow.com/a/6089415/2593947)
 - [ZSH Git Alias](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet#git)
 - [Checkout file from remote repo](http://stackoverflow.com/a/4427783)
+- [Formatting](https://git-scm.com/docs/pretty-formats)
 
 ## React
 
