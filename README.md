@@ -108,3 +108,4 @@
 ## Python 3
 
 - [Lazy evaluation in Python](https://stackoverflow.com/a/20535379)
+- [Common sequence operations](https://docs.python.org/3/library/stdtypes.html?#common-sequence-operations)
