@@ -96,6 +96,9 @@
 
 - [Disable Git branch status](https://stackoverflow.com/a/25864063)
 
+## Tmux
+- [Re-attach to namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard/)
+
 ## iTerm
 
 - [Map keys for cursor movement](http://apple.stackexchange.com/a/204802)
