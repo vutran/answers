@@ -32,6 +32,9 @@
 - [Force rebuild GitHub Pages](http://stackoverflow.com/a/24099328)
 - [Purge GitHub images](https://help.github.com/articles/why-do-my-images-have-strange-urls/#removing-an-image-from-camos-cache)
 
+## GitLab
+- [Deploy to Heroku](https://docs.gitlab.com/ee/ci/examples/test-and-deploy-ruby-application-to-heroku.html#create-heroku-application)
+
 ## Git
 
 - [Fix CRLF/LF endings with Windows](https://help.github.com/articles/dealing-with-line-endings/)
