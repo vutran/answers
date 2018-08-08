@@ -22,6 +22,7 @@
 - [Most used commands](https://superuser.com/a/250230)
 - [Write custom bash completion commands](http://fahdshariff.blogspot.com/2011/04/writing-your-own-bash-completion.html)
 - [gpg failed to sign data](https://github.com/pstadler/keybase-gpg-github#optional-setting-up-tty)
+- [List largest files](https://stackoverflow.com/a/21101734)
 
 ## Docker
 
