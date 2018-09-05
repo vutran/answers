@@ -115,3 +115,7 @@
 ## Python 3
 
 - [Lazy evaluation in Python](https://stackoverflow.com/a/20535379)
+
+## Miscellaneous
+
+- [Cache Control](https://stackoverflow.com/a/2068407/2593947)
