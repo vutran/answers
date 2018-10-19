@@ -79,6 +79,7 @@
 - [Join current and next line](https://stackoverflow.com/a/3983437/2593947)
 - [Toggle casing](http://vim.wikia.com/wiki/Switching_case_of_characters)
 - [Split windows/tabs](https://superuser.com/a/486535)
+- [Segment fault issue with Vim/OS X Mojave](https://github.com/Valloric/YouCompleteMe/issues/3165)
 
 ## JavaScript
 
