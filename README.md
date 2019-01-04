@@ -80,6 +80,7 @@
 - [Toggle casing](http://vim.wikia.com/wiki/Switching_case_of_characters)
 - [Split windows/tabs](https://superuser.com/a/486535)
 - [Segment fault issue with Vim/OS X Mojave](https://github.com/Valloric/YouCompleteMe/issues/3165)
+- [NerdTree - Jump to opened file](https://stackoverflow.com/questions/7692233/nerdtree-reveal-file-in-tree)
 
 ## JavaScript
 
