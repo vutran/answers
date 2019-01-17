@@ -22,6 +22,7 @@
 - [Most used commands](https://superuser.com/a/250230)
 - [Write custom bash completion commands](http://fahdshariff.blogspot.com/2011/04/writing-your-own-bash-completion.html)
 - [gpg failed to sign data](https://github.com/pstadler/keybase-gpg-github#optional-setting-up-tty)
+- [List largest files](https://stackoverflow.com/a/21101734)
 
 ## Docker
 
@@ -31,6 +32,9 @@
 
 - [Force rebuild GitHub Pages](http://stackoverflow.com/a/24099328)
 - [Purge GitHub images](https://help.github.com/articles/why-do-my-images-have-strange-urls/#removing-an-image-from-camos-cache)
+
+## GitLab
+- [Deploy to Heroku](https://docs.gitlab.com/ee/ci/examples/test-and-deploy-ruby-application-to-heroku.html#create-heroku-application)
 
 ## Git
 
@@ -75,6 +79,8 @@
 - [Join current and next line](https://stackoverflow.com/a/3983437/2593947)
 - [Toggle casing](http://vim.wikia.com/wiki/Switching_case_of_characters)
 - [Split windows/tabs](https://superuser.com/a/486535)
+- [Segment fault issue with Vim/OS X Mojave](https://github.com/Valloric/YouCompleteMe/issues/3165)
+- [NerdTree - Jump to opened file](https://stackoverflow.com/questions/7692233/nerdtree-reveal-file-in-tree)
 
 ## JavaScript
 
@@ -96,6 +102,9 @@
 
 - [Disable Git branch status](https://stackoverflow.com/a/25864063)
 
+## Tmux
+- [Re-attach to namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard/)
+
 ## iTerm
 
 - [Map keys for cursor movement](http://apple.stackexchange.com/a/204802)
@@ -109,3 +118,4 @@
 
 - [Lazy evaluation in Python](https://stackoverflow.com/a/20535379)
 - [Common sequence operations](https://docs.python.org/3/library/stdtypes.html?#common-sequence-operations)
+- [Cache Control](https://stackoverflow.com/a/2068407/2593947)
