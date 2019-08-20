@@ -83,6 +83,7 @@
 - [Segment fault issue with Vim/OS X Mojave](https://github.com/Valloric/YouCompleteMe/issues/3165)
 - [NerdTree - Jump to opened file](https://stackoverflow.com/questions/7692233/nerdtree-reveal-file-in-tree)
 - [insert multiple lines](https://stackoverflow.com/a/253391)
+- [Resize pane](https://vim.fandom.com/wiki/Resize_splits_more_quickly)
 
 ## JavaScript
 
