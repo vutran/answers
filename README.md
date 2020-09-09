@@ -128,4 +128,5 @@
 
 ## GK64
 
-- spacebar on keydown - switch to mode 1 (fn + Q)
+- spacebar on keydown (switch to mode 1) - <kbd>fn</kbd> + <kbd>Q</kbd>
+- volumn mute/up/down - <kbd>Fn</kbd> + <kbd>f</kbd>/<kbd>g</kbd>/<kbd>h</kbd>
