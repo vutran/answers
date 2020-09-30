@@ -1,0 +1,16 @@
+# vim
+
+- [Show/hide line numbers](http://www.cyberciti.biz/faq/vi-show-line-numbers/)
+- [Cycle through opened files](http://stackoverflow.com/a/19971092)
+- [Ctrl+P - open in split](https://github.com/kien/ctrlp.vim/issues/124#issuecomment-3784965)
+- [Indent lines](http://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi)
+- [Move page to current line](http://stackoverflow.com/a/3458821)
+- [map, remap, noremap](http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping)
+- [Vundle local plugin path](https://github.com/VundleVim/Vundle.vim/blob/v0.10.2/doc/vundle.txt#L226)
+- [Join current and next line](https://stackoverflow.com/a/3983437/2593947)
+- [Toggle casing](http://vim.wikia.com/wiki/Switching_case_of_characters)
+- [Split windows/tabs](https://superuser.com/a/486535)
+- [Segment fault issue with Vim/OS X Mojave](https://github.com/Valloric/YouCompleteMe/issues/3165)
+- [NerdTree - Jump to opened file](https://stackoverflow.com/questions/7692233/nerdtree-reveal-file-in-tree)
+- [insert multiple lines](https://stackoverflow.com/a/253391)
+- [Resize pane](https://vim.fandom.com/wiki/Resize_splits_more_quickly)

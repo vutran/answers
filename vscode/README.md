@@ -1,3 +1,5 @@
+# VSCode
+
 ## Q: `code` command not found
 
 Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
